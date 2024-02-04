@@ -3,7 +3,14 @@
     <div class="three wide column" style="background-color: #343a3f">
       <Menu></Menu>
     </div>
+
     <div class="thirteen wide column" style="background-color: #f3f6f9">
+      <hr />
+      <h1>Tablo Komponent</h1>
+      <dkom></dkom>
+      <hr />
+      <hr />
+      <h1>Istatıstık Komponent</h1>
       <div class="ui statistics">
         <div class="statistic veri">
           <div
@@ -15,6 +22,19 @@
           <div class="label">Views</div>
         </div>
       </div>
+      <hr />
+      <hr />
+      <h1>bildirim Komponent</h1>
+      <bildirim></bildirim>
+      <hr />
+      <hr />
+      <h1>sayac Komponent</h1>
+      <sayac></sayac>
+      <hr />
+      <hr />
+      <h1>info Komponent</h1>
+      <info></info>
+      <hr />
     </div>
   </div>
 </template>
